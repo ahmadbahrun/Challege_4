@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">my_app</string>
+    <string name="iv_refresh">iv_refresh</string>
+    <string name="rock_right">rock_right</string>
+    <string name="paper_right">paper_right</string>
+    <string name="scissors_right">scissors_right</string>
+    <string name="rock_left">rock_left</string>
+    <string name="paper_left">paper_left</string>
+    <string name="scissors_left">scissors_left</string>
+    <string name="vs">VS</string>
+    <string name="draw">DRAW !!</string>
+    <string name="this_draw">Draw</string>
+</resources>
